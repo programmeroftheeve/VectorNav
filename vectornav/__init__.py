@@ -3,13 +3,13 @@ __email__ = 'tjbradt@mtu.edu'
 __version__ = '0.0.1'
 
 """
-    VectorNav
+    vectornav
     --------
 
-    VectorNav is a library that interfaces with the VectorNav Products.
+    vectornav is a library that interfaces with the vectornav Products.
 
     It provides the Classes and Functions for communication and usage of the
-    VectorNav Products
+    vectornav Products
 
     What products are supported:
     ---------------------------
