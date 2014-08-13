@@ -1,6 +1,6 @@
 __author__ = 'Tim Bradt'
 __email__ = 'tjbradt@mtu.edu'
-__version__ = '0.0.1'
+__version__ = '0.1.0'
 
 """
     vectornav
